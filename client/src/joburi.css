@@ -1,0 +1,49 @@
+div{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    color: white;
+    font: bold;
+
+    }
+
+div {
+    background-color: #fff;
+    }
+
+h2 {
+    font-family: Courier;
+    color : #000;
+    text-align: center;
+    }
+.blue {
+    display: inline-block;
+    padding: 2px;
+    margin: 0;
+    color: #fff;
+    background-color: lightseagreen;
+}
+.pink{
+    display: inline-block;
+    padding: 2px;
+    margin: 0;
+    color: #fff;
+    background-color: #d11e72;
+}
+    
+
+table#joburi{
+    width: 100%;
+}
+table#joburi tr td {
+    text-align: center;
+}
+tr#head{
+    background-color: lawngreen;
+}
+
+tr:hover{
+    background-color: lawngreen;
+}
